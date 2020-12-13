@@ -7,7 +7,6 @@ const { readFile , writeFile } = fs;
 const app = express();
 app.use( express.json() );
 
-
 // app.use("/conta",rotasContas);
 // app.use("/account",rotasContas);
 
