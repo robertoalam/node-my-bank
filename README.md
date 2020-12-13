@@ -1,11 +1,18 @@
-# Instalando dependencias
+## Instalando dependencias
 > npm install
 
-# Instalando nodemon
+## Instalando nodemon
 > npm install nodemon
 
-# Rodando
+## Rodando
 > nodemon index.js
 
-# Rotas
+## Rotas
+### fetchByAll : GET
 > localhost:3000/contas
+
+### fecthById : GET/id
+> localhost:3000/contas/{id}
+
+### Save : POST 
+> localhost:3000/contas/
