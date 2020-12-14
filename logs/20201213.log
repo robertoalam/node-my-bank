@@ -1,6 +1,0 @@
-2020-12-14T16:43:01.954Z [my-bank-api] info: API STARTED
-2020-12-14T16:43:07.233Z [my-bank-api] info: API STARTED
-2020-12-14T16:43:49.321Z [my-bank-api] info: API STARTED
-2020-12-14T16:46:25.181Z [my-bank-api] info: API STARTED
-2020-12-14T16:48:32.815Z [my-bank-api] info: API STARTED
-2020-12-14T16:49:00.394Z [my-bank-api] info: GET / contas - {"contas":[{"id":1,"nome":"Roberto Aguiar Alam","saldo":999},{"id":2,"nome":"Luisa Ferreira Alam","saldo":100},{"id":3,"nome":"Tonia Laura Colvara Ferreira","saldo":10000},{"id":4,"nome":"José Tobias Alam","saldo":325695}]}
